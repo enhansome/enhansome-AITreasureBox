@@ -9,17 +9,12 @@
       "description": "",
       "items": [],
       "title": "Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Websites"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:40:20.904Z",
+    "last_updated": "2026-08-18T15:49:10.214Z",
     "original_repository": "superiorlu/AITreasureBox",
-    "original_repository_sha": "0ca8efc34334b0f49b191db0bec1fef69107ee15",
+    "original_repository_sha": "7de4ac80d2b40783d1a9ac66edff8ba3de6026e8",
     "enhanced_repository": "enhansome/enhansome-AITreasureBox",
     "enhanced_repository_description": null,
     "title": "Awesome AI TreasureBox with stars"
