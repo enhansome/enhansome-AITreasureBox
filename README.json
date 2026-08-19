@@ -1,20 +1,10 @@
 {
-  "items": [
-    {
-      "description": "Tip:",
-      "items": [],
-      "title": "Repos"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Tools"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T15:49:10.214Z",
+    "last_updated": "2026-08-19T12:05:41.148Z",
     "original_repository": "superiorlu/AITreasureBox",
-    "original_repository_sha": "7de4ac80d2b40783d1a9ac66edff8ba3de6026e8",
+    "original_repository_id": 614906119,
+    "original_repository_sha": "33856e9a2dd260d426f234f68940b9ac3596cc97",
     "enhanced_repository": "enhansome/enhansome-AITreasureBox",
     "enhanced_repository_description": null,
     "title": "Awesome AI TreasureBox with stars"
